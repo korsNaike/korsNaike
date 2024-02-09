@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a backend/fullstack developer from Krasnodar, Russia. <br>I don't have any serious open-source projects yet, but they will be here soon.
+Hi! I am a backend/fullstack developer from Krasnodar, Russia. <br>I don't have any open-source projects yet, but they will be here soon.
 
 
 # 💻 Tech Stack:
